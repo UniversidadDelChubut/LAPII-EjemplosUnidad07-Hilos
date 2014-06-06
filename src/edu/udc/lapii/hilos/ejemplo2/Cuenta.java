@@ -11,11 +11,11 @@ public class Cuenta {
 		this.numero = numero;
 		this.saldo = saldo;
 	}
-	public synchronized double getSaldo() {
+	public /*synchronized*/ double getSaldo() {
 		return saldo;
 	}
 	
-	public synchronized double extraer(double monto){
+	public /*synchronized*/ double extraer(double monto){
 		if (this.saldo >= monto){
 			Logger.loggear (new Date()+ " " + Thread.currentThread().getName() + " Se estan extrayendo " + monto + " pesos de la cuenta numero " + this.numero);
 			this.saldo -= monto;
@@ -32,9 +32,12 @@ public class Cuenta {
 	public void hacerTareaLarga(){
 		//UN monton de cosas
 		
+		
+		/*
 		synchronized (this) {
 			
 		}
+		*/
 		
 		//Otro monton de cosas
 	}
