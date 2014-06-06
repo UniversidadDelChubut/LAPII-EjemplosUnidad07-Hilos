@@ -1,0 +1,62 @@
+Mon Jun 03 17:08:28 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:08:28 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:08:28 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12Mon Jun 03 17:08:28 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:08:28 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:08:28 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+
+Mon Jun 03 17:20:41 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:20:41 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:20:41 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:18 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:18 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:18 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:20 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:20 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:20 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:22 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:22 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:22:22 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:25:12 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:25:12 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:25:12 GMT-03:00 2013 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:26:14 GMT-03:00 2013 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:26:14 GMT-03:00 2013 Thread-5 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:26:14 GMT-03:00 2013 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:26:52 GMT-03:00 2013 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:26:53 GMT-03:00 2013 Thread-5 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:26:53 GMT-03:00 2013 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:22 GMT-03:00 2013 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:22 GMT-03:00 2013 Thread-5 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:22 GMT-03:00 2013 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:34 GMT-03:00 2013 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:34 GMT-03:00 2013 Thread-5 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:34 GMT-03:00 2013 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:37 GMT-03:00 2013 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:38 GMT-03:00 2013 Thread-5 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:38 GMT-03:00 2013 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:43 GMT-03:00 2013 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:43 GMT-03:00 2013 Thread-5 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Mon Jun 03 17:29:43 GMT-03:00 2013 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:14:42 GMT-03:00 2014 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:14:42 GMT-03:00 2014 Thread-3 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:14:42 GMT-03:00 2014 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:14:42 GMT-03:00 2014 Thread-2 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:14:42 GMT-03:00 2014 Thread-1 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:13 GMT-03:00 2014 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:13 GMT-03:00 2014 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:13 GMT-03:00 2014 Thread-3 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:55 GMT-03:00 2014 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:55 GMT-03:00 2014 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:55 GMT-03:00 2014 Thread-3 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:59 GMT-03:00 2014 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:59 GMT-03:00 2014 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:28:59 GMT-03:00 2014 Thread-3 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:29:47 GMT-03:00 2014 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:29:48 GMT-03:00 2014 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:29:48 GMT-03:00 2014 Thread-3 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:29:48 GMT-03:00 2014 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:29:48 GMT-03:00 2014 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:29:48 GMT-03:00 2014 Thread-3 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:32:49 GMT-03:00 2014 Thread-0 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:33:19 GMT-03:00 2014 Thread-4 Se estan extrayendo 100.0 pesos de la cuenta numero 12
+Thu Jun 05 18:34:07 GMT-03:00 2014 Thread-3 Se estan extrayendo 100.0 pesos de la cuenta numero 12
