@@ -14,7 +14,7 @@ public class Consumidor implements Runnable {
 			Elemento e = buffer.getElemento();
 			System.out.println("Tengo el elemento " + e.getValor() + " " + Thread.currentThread().getName());
 			try {
-				Thread.sleep(300);
+				Thread.sleep(1000);
 			} catch (InterruptedException e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
